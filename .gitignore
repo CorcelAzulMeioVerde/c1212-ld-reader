@@ -1,0 +1,16 @@
+# Logs e tudo o que sai deles: nunca entram no repositório.
+*.ld
+*.ldx
+*.parquet
+processado/
+dicionario/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
